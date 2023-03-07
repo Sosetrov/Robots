@@ -1,4 +1,4 @@
-package gui;
+package org.sosetrov.gui;
 
 import java.awt.BorderLayout;
 

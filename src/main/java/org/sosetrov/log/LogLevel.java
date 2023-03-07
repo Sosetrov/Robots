@@ -1,4 +1,4 @@
-package log;
+package org.sosetrov.log;
 
 public enum LogLevel
 {
